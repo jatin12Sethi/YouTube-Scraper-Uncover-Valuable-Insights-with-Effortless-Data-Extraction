@@ -30,6 +30,14 @@ python yt_scrapeer_assesment.py
 ```
 4. The script will start scraping the channel data and video information using Selenium and the YouTube API. The scraped data will be saved to a CSV file for further analysis.
 
+## Screenshots
+
+![download](https://github.com/jatin12Sethi/YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction/assets/98033741/4f7d8143-8671-4da1-82b7-5591616ae4b4)
+
+![download](https://github.com/jatin12Sethi/YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction/assets/98033741/3904e252-dfc2-44d0-89db-a354f0956ead)
+
+![download](https://github.com/jatin12Sethi/YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction/assets/98033741/b0b78d6e-cc3b-4ae9-b977-a36453454f07)
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any ideas for improvements, new features, or bug fixes, please submit a pull request. Make sure to follow the contribution guidelines provided in the repository.
