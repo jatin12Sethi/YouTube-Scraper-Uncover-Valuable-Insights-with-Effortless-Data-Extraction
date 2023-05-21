@@ -38,6 +38,10 @@ python yt_scrapeer_assesment.py
 
 ![download](https://github.com/jatin12Sethi/YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction/assets/98033741/b0b78d6e-cc3b-4ae9-b977-a36453454f07)
 
+## How Excel Looks
+![image](https://github.com/jatin12Sethi/YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction/assets/98033741/07304f94-6613-42c4-a8a8-ae9fbf5f3391)
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any ideas for improvements, new features, or bug fixes, please submit a pull request. Make sure to follow the contribution guidelines provided in the repository.
