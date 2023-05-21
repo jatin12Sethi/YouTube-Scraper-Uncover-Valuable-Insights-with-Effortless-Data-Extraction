@@ -1,7 +1,7 @@
 ## YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction
 
 This YouTube Scraper is a powerful tool designed to extract comprehensive data from YouTube channels and individual videos. By combining the capabilities of Selenium and the YouTube API, this scraper enables you to scrape all the data from YouTube channels and dive deep into the details of each video.
-![youtube-data-scraping](https://github.com/jatin12Sethi/YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction/assets/98033741/6b3a6ade-a09c-47bb-9221-b3b5c7df912a)
+![image](https://github.com/jatin12Sethi/YouTube-Scraper-Uncover-Valuable-Insights-with-Effortless-Data-Extraction/assets/98033741/201ebf68-3826-42e8-82cf-7722a95623c3)
 
 
 ## Features
