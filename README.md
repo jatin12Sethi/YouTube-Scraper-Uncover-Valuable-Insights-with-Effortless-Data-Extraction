@@ -26,7 +26,7 @@ pip install -r requirements.txt
 2. Customize the scraping parameters in the `scraper.py` file according to your requirements, such as the YouTube channel URLs and the data fields you want to scrape.
 3. Run the `scraper.py` script using the command:
 ```
-python yt_scrapeer_assesment.py
+python yt_scrapeer.py
 ```
 4. The script will start scraping the channel data and video information using Selenium and the YouTube API. The scraped data will be saved to a CSV file for further analysis.
 
